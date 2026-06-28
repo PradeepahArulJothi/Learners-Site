@@ -14,6 +14,4 @@ Note This is a front-end design project that replicates only the Udemy Home Scre
 
 Project Status: Completed ✅ Type: Front-End Practice Project Inspired By: Learners Homepage Design
 
-#How to view you can access my website visiting 
-
 Thank you for visiting my website.
